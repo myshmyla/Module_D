@@ -3,10 +3,12 @@ import requests
 
 base_url = "https://api.trello.com/1/{}"
 auth_params = {
-    'key': "e3af0fe8e062b2b6ca5f9c906b8dc7fd",
-    'token': "08100766b52d1e38c68c2e6002abe277062726959a3126dae5a5dbb579ed2d3a",
+    'key': "b117b73d28b9ce35436e8a272949d499",
+    'token': "b2ce784832dce71688f083d176c68766a46721f677f0492e2b556237e3f31673",
 }
-board_id = "5d8210d0fe6fe82b22ee533e"
+
+
+board_id = "rwpi1MCt"
 
 
 def read():
